@@ -1,5 +1,10 @@
 # Web Speed Hackathon 2024 Cyber TOON
 
+## Deployed to Koyeb
+
+- **Koyeb Dashboard:** [Service Details](https://app.koyeb.com/services/8da78906-c56d-4648-8867-cb43417b3cbb?deploymentId=2fe8af57-03bf-49df-bb8b-f77a4a66e4d9)
+- **Live Application:** [zany-hippopotamus-marrun-5a96240b.koyeb.app](https://zany-hippopotamus-marrun-5a96240b.koyeb.app/)
+
 ## 概要
 
 **"Web Speed Hackathon 2024" は、非常に重たい Web アプリをチューニングして、いかに高速にするかを競う競技です。**

@@ -1,2 +1,4 @@
 packages:
   - workspaces/*
+onlyBuiltDependencies:
+  - better-sqlite3

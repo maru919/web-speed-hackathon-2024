@@ -16,6 +16,8 @@ export function initializeDatabase() {
     database = null;
   }
 
+  console.log('DATABASE_PATH while initialization', DATABASE_PATH);
+
   sqlite = new Database(DATABASE_PATH, {
     readonly: false,
   });
